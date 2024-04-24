@@ -1,2 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Nirvazure.github.io/memo</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Nirvazure.github.io/memo</link></image><lastBuildDate>Wed, 24 Apr 2024 02:24:41 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>人性的弱点</title><link>https://Nirvazure.github.io/memo/post/ren-xing-de-ruo-dian.html</link><description>#书  *Author：卡耐基*&#13;
+&#13;
+&gt; 让别人感受到重视，打从心里赞美他人是与人相处的诀窍&#13;
+&#13;
+## 人们所作的事情有两种动机&#13;
+##### 性的冲动&#13;
+##### 成为伟人的欲望&#13;
+&#13;
+## 使人喜欢你的6种方法&#13;
+##### 真诚对别人发生兴趣、替别人做一些事情&#13;
+##### 微笑永远是受欢迎的&#13;
+##### 记住你所接触的每一个人的名字&#13;
+##### 做一个善于倾听的人，鼓励别人多谈谈自己&#13;
+##### 就别人的兴趣讨论、不要只想着让别人对我们发生兴趣&#13;
+##### 真诚的让对方感觉自己很重要、让别人帮自己做一些事情&#13;
+&#13;
+&gt; 自重感是人性至深的品质，没有这种冲动，不会有文化（林肯，狄更斯，洛克菲勒大都如此）&#13;
+&#13;
+&gt; 精神病人没有生理问题其实都是在疯癫中找到自重感&#13;
+&#13;
+&gt; 知道怎么和比自己优秀的人相处是一件很重要的事情，对方比自己好的优点就可以学习啊&#13;
+&#13;
+需要注意的是，赞赏是真诚的，谄媚是虚伪的&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+。</description><guid isPermaLink="true">https://Nirvazure.github.io/memo/post/ren-xing-de-ruo-dian.html</guid><pubDate>Wed, 24 Apr 2024 02:24:13 +0000</pubDate></item></channel></rss>
